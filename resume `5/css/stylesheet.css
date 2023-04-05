@@ -1,0 +1,72 @@
+*{
+  padding: 0;
+  margin: 0;
+
+}
+
+body{
+  font-family: 'Nunito Sans', sans-serif;
+  font-size:110%;
+  background-color: #F1DDCF;
+  border: 10px solid rgb(185, 85, 48);
+  outline: #4CAF50 solid 10px;
+  margin: auto;  
+  padding: 10px;
+}
+
+header {
+  text-align: center;
+  background-color:#85B09A;
+  color: whitesmoke;
+  padding: 10px 0 10px ;
+}
+
+.nav-menu{
+   border: ;
+   width: fit-content;
+   /*padding left: 10px;
+   padding right: 10px;*/
+   padding: 1rem;
+   overflow: auto;
+   background-color: #568203;
+}
+
+#profilePhoto{
+  border-radius: 50%;
+  outline: 2px solid brown;
+}
+
+.icons{
+  width: 3rem;
+  height:auto;
+  margin: 0.5rem;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+
+
+
+h2 {
+  color: blacks;
+}
+
+ul {
+  list-style: none;
+  padding 0px;
+  
+}
+
+
+
+
+footer {
+  background-color: #B56917;
+  color: #FCF7F8;
+  text-align: center;
+} 
+
+
